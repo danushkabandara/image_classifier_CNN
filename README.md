@@ -1,1 +1,1 @@
-# image_clssifier_CNN
+# image_classifier_CNN
